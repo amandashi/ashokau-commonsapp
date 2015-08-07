@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Commons Application feature.
+ */
+
+include_once 'commons_application.features.inc';
